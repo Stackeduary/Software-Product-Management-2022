@@ -1,13 +1,12 @@
 # Project for Software Product Management
 
-## Spring 2022
-
 ### University of Tartu
 
-<br>
+### Spring 2022
+
 <br>
 
-#### Bill Sendewicz
-#### Volodymyr Chernetskyi
-#### Armin Remenyi
-#### Sarp Aktug
+##### Bill Sendewicz
+##### Volodymyr Chernetskyi
+##### Armin Remenyi
+##### Sarp Aktug
